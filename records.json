@@ -1,0 +1,213 @@
+{
+    "1001": {
+        "category":"Food Product",
+        "name": "Biscuits",
+        "price": 20,
+        "quantity": 1000,
+        "status":"Active"
+    },
+    "1002": {
+        "category":"Food Product",
+        "name": "Milk Cake",
+        "price": 50,
+        "quantity": 100,
+        "status":"Active"
+    },
+    "1003": {
+        "category":"Food Product",
+        "name": "Drink",
+        "price": 50,
+        "quantity": 100,
+        "status":"Active"
+    },
+    "1004": {
+        "category":"Food Product",
+        "name": "Candy",
+        "price": 5,
+        "quantity": 1000,
+        "status":"Active"
+    },
+    "1005": {
+        "category":"Food Product",
+        "name": "Bread",
+        "price": 20,
+        "quantity": 100,
+        "status":"Active"
+    },
+    "1006": {
+        "category":"Food Product",
+        "name": "Ice Cream",
+        "price": 45,
+        "quantity": 25,
+        "status":"Active"
+    },
+    "1007": {
+        "category":"Food Product",
+        "name": "Pasta",
+        "price": 35,
+        "quantity": 20,
+        "status":"Active"
+    },
+    "1008": {
+        "category":"Food Product",
+        "name": "Tomato Sauce",
+        "price": 30,
+        "quantity": 100,
+        "status":"Active"
+    },
+    "1009": {
+        "category":"Food Product",
+        "name": "cooking oil",
+        "price": 165,
+        "quantity": 100,
+        "status":"Active"
+    },
+    "1010": {
+        "category":"Food Product",
+        "name": "Chips",
+        "price": 10,
+        "quantity": 50,
+        "status":"Active"
+    },
+    "2001": {
+        "category":"Stationary",
+        "name": "Pen",
+        "price": 20,
+        "quantity": 100,
+        "status":"Active"
+    },
+    "2002": {
+        "category":"Stationary",
+        "name": "Pencil",
+        "price": 5,
+        "quantity": 100,
+        "status":"Active"
+    },
+    "2003": {
+        "category":"Stationary",
+        "name": "Eraser",
+        "price": 5,
+        "quantity": 25,
+        "status":"Active"
+    },
+    "2004": {
+        "category":"Stationary",
+        "name": "Notebook",
+        "price": 35,
+        "quantity": 200,
+        "status":"Active"
+    },
+    "2005": {
+        "category":"Stationary",
+        "name": "File",
+        "price": 15,
+        "quantity": 100,
+        "status":"Active"
+    },
+    "2006": {
+        "category":"Stationary",
+        "name": "Stapler",
+        "price": 65,
+        "quantity": 20,
+        "status":"Active"
+    },
+    "2007": {
+        "category":"Stationary",
+        "name": "Scissor",
+        "price": 25,
+        "quantity": 10,
+        "status":"Active"
+    },
+    "2008": {
+        "category":"Stationary",
+        "name": "Punching Machine",
+        "price": 80,
+        "quantity": 15,
+        "status":"Active"
+    },
+    "2009": {
+        "category":"Stationary",
+        "name": "Writing Pad",
+        "price": 90,
+        "quantity": 15,
+        "status":"Active"
+    },
+    "2010": {
+        "category":"Stationary",
+        "name": "Marker",
+        "price": 25,
+        "quantity": 30,
+        "status":"Active"
+    },
+    "3001": {
+        "category":"Electronics",
+        "name": "Keyboard",
+        "price": 1999,
+        "quantity": 30,
+        "status":"Active"
+    },
+    "3002": {
+        "category":"Electronics",
+        "name": "Tv",
+        "price": 50000,
+        "quantity": 10,
+        "status":"Active"
+    },
+    "3003": {
+        "category":"Electronics",
+        "name": "Mi phone",
+        "price": 20000,
+        "quantity": 30,
+        "status":"Active"
+    },
+    "3004": {
+        "category":"Electronics",
+        "name": "Iphone",
+        "price": 65000,
+        "quantity": 15,
+        "status":"Active"
+    },
+    "3005": {
+        "category":"Electronics",
+        "name": "Washing Machine",
+        "price": 40000,
+        "quantity": 10,
+        "status":"Active"
+    },
+    "3006": {
+        "category":"Electronics",
+        "name": "Microwave Oven",
+        "price": 55000,
+        "quantity": 10,
+        "status":"Active"
+    },
+    "3007": {
+        "category":"Electronics",
+        "name": "Fridge",
+        "price": 60000,
+        "quantity": 10,
+        "status":"Active"
+    },
+    "3008": {
+        "category":"Electronics",
+        "name": "Bulb",
+        "price": 199,
+        "quantity": 100,
+        "status":"Active"
+    },
+    "3009": {
+        "category":"Electronics",
+        "name": "Laptop",
+        "price": 35000,
+        "quantity": 30,
+        "status":"Active"
+    },
+    "3010": {
+        "category":"Electronics",
+        "name": "Earphone",
+        "price": 1999,
+        "quantity": 100,
+        "status":"Active"
+    }
+
+}
